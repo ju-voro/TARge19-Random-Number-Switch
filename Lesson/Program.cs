@@ -10,6 +10,38 @@ namespace Lesson
     {
         static void Main(string[] args)
         {
+            //The Greatest Number
+              /*int x;
+            int y;
+            int z;
+            Console.WriteLine("Enter the first number: ");
+            x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the second number: ");
+            y = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the third number: ");
+            z = int.Parse(Console.ReadLine());
+            if(x > y )
+            {
+                if(x > z)
+                {
+                    Console.WriteLine($"The biggest number is your first number {x}");
+                }
+                else
+                {
+                    Console.WriteLine($"The biggest number is your third number {z}");
+                }
+                
+            }
+            else if( y > z)
+            {
+                Console.WriteLine($"the biggest number is your second number {y}");
+            }
+            else
+            {
+                Console.WriteLine($"the biggest number is your third number {z}");
+            }*/
+
+            
             //Random number generator     
             /*Random randomGenerator = new Random();
             int cpuRoll = randomGenerator.Next(1, 7);
